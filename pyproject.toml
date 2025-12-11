@@ -5,6 +5,7 @@ requires-python = ">=3.11"
 dependencies = [
     "fastmcp>=0.1.0",
     "pydantic>=2.0.0",
+    "bleak>=0.21.0",
 ]
 
 [project.scripts]
